@@ -1,4 +1,4 @@
-# packagecontrol.io
+# 当 https://packagecontrol.io 无法访问时, 不要难过, 不要忧桑~
 
 ### Package Control.sublime-package
 迫于某些不可描述的原因, 无法安装Package Control, 请执行以下步骤手动安装包控制:
